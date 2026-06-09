@@ -1,0 +1,1 @@
+- [Convention: Mobile-first styling](convention-mobile-first.md) — all components use Tailwind mobile-first; sm:/md:/lg: for larger screens
